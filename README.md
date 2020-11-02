@@ -1,3 +1,5 @@
+For executing on your local machine, please change the path of input train and test files to the files included in this reposiroty.
+
 # prediction-of-upvotes
 Prediction of Upvotes using Machine Learning
 
